@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuryaSan24x7
-- 👀 I’m interested in Blockchain Developement
+- 👀 I’m interested in Blockchain Developement,Data Analysis, Fintech Application Develepment
 - 🌱 I’m currently learning Blockchain Develoment using Solidity
 - 💞️ I’m looking to collaborate on Blockchain Development
 - 📫 How to reach me via email waghmaresuraj11@yahoo.com
