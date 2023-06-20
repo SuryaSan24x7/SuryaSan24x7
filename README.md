@@ -7,9 +7,8 @@
 
 **GitHub Profile Stats:**
 ![Profile Views](https://visitcount.itsvg.in/api?id=SuryaSan24x7&label=Profile%20Views&color=1&icon=0&pretty=false)
-![Total Commits](https://img.shields.io/github/commit-activity/m/SuryaSan24x7?color=%2300C853)
+![Total Commits](https://img.shields.io/github/commit-activity/m/SuryaSan24x7/SuryaSan24x7?color=%2300C853)
 
-**Total Commits across all Repositories:** ![Total Commits](https://img.shields.io/github/commit-activity/m/SuryaSan24x7?color=%2300C853&label=Total%20Commits)
 
 <!---
 SuryaSan24x7/SuryaSan24x7 is a ✨special✨ repository because its `README.md` (this file) appears on your GitHub profile.
