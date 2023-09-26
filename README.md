@@ -10,9 +10,13 @@
 # 📊 GitHub Stats:
 
 [![Suraj’s github stats](https://github-readme-stats.vercel.app/api?username=SuryaSan24x7)](https://github.com/SuryaSan24x7)
-![](https://github-readme-stats.vercel.app/api?username=SuryaSan24x7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SuryaSan24x7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaSan24x7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryaSan24x7&theme=dark&hide_border=false&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuryaSan24x7&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaSan24x7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaSan24x7&layout=compact)](https://github.com/SuryaSan24x7)
