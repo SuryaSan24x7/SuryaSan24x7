@@ -11,7 +11,7 @@
 
 [![Suraj’s github stats](https://github-readme-stats.vercel.app/api?username=SuryaSan24x7)](https://github.com/SuryaSan24x7)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryaSan24x7)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryaSan24x7&include_all_commits=true&count_private=true))
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuryaSan24x7&theme=dark&hide_border=false)
 
