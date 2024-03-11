@@ -12,9 +12,7 @@
 [![Suraj’s github stats](https://github-readme-stats.vercel.app/api?username=SuryaSan24x7)](https://github.com/SuryaSan24x7)
 ![SuryaSan24x7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaSan24x7&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuryaSan24x7&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaSan24x7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![SuryaSan24x7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuryaSan24x7&theme=tokyonight&hide_border=true)
 
 
 
