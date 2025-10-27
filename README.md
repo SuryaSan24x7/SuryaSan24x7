@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suraj%20Waghmare&fontSize=42&fontAlignY=25&desc=Full%20Stack%20Blockchain%20Developer%20%7C%20Web3%20Architect&descAlignY=51&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suraj%20Waghmare&fontSize=42&fontAlignY=25&desc=Full%20Stack%20Blockchain%20Developer&fontColor=FFFFFF" alt="header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Suraj+Waghmare+%F0%9F%91%8B;Full+Stack+Blockchain+Developer+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Next.js+Expert+%E2%9A%9B%EF%B8%8F;Building+DeFi+%26+Web3+Applications+%F0%9F%94%97;Solana+%7C+Ethereum+%7C+Multi-Chain+Specialist+%E2%9B%93%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Suraj+Waghmare+%F0%9F%91%8B;Full+Stack+Blockchain+Developer+%E2%9A%99%EF%B8%8F" alt="typing"/>
 </div>
 
 <p align="center">
@@ -47,13 +47,16 @@
 <div align="center" style="margin-top:18px">
   <h3 style="margin-bottom:6px">What I do</h3>
   <p style="max-width:920px;color:#94a3b8">
-    Web3 dApp development • Smart contract integration • DeFi frontend architecture • Cross-chain UI/UX • NFT marketplaces & DEX interfaces
+    Web3 dApp development • Smart contract integration • DeFi frontend architecture • Cross-chain UX & infrastructure • NFT marketplaces & DEX interfaces • DevOps for blockchain apps • Applied AI & GenAI for developer tooling and agents
   </p>
   <p>
     <img src="https://img.shields.io/badge/Web3-🌐-00bcd4?style=for-the-badge" alt="web3"/>
     <img src="https://img.shields.io/badge/DeFi-🏦-8b5cf6?style=for-the-badge" alt="defi"/>
-    <img src="https://img.shields.io/badge/Multi-Chain-🔗-06b6d4?style=for-the-badge" alt="multi-chain"/>
+    <img src="https://img.shields.io/badge/Multi--Chain-06b6d4?style=for-the-badge&logo=ethereum&logoColor=white" alt="multi-chain"/>
     <img src="https://img.shields.io/badge/Smart%20Contracts-⛓️-374151?style=for-the-badge" alt="contracts"/>
+    <img src="https://img.shields.io/badge/DevOps-CI%2FCD-0ea5a4?style=for-the-badge&logo=githubactions&logoColor=white" alt="devops"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+    <img src="https://img.shields.io/badge/GenAI-⚡-FF6B6B?style=for-the-badge" alt="genai"/>
   </p>
 </div>
 
@@ -64,8 +67,12 @@
 <summary><strong>🔥 More about me</strong></summary>
 
 - Frontend & UX: React, Next.js, TypeScript — building responsive, accessible Web3 experiences.  
-- Multi-chain experience: Ethereum, Solana, Polygon, Arbitrum, Hedera, ICP.  
+- Multi-chain experience: Ethereum, Solana, Polygon, Arbitrum, Hedera, ICP — designing cross-chain UX and abstractions.  
 - Roles: Blockchain Developer at Digichain Global (Remote) — focusing on DeFi and cross-chain user experiences.  
+- DevOps & infra: CI/CD pipelines (GitHub Actions), containerization (Docker), orchestration (Kubernetes), infra as code (Terraform), monitoring and observability for production dApps.  
+- AI & GenAI: Practical experience building LLM-powered tooling — embeddings/RAG, LangChain-style agents, custom prompts, retrieval agents, and lightweight orchestration to integrate AI into developer workflows and UX.  
+- Prompt Engineering & Agents: Designing multi-turn system prompts, instruction tuning patterns, safety/guardrails, and agent orchestration for autonomous workflows (task decomposition, tool use, validation loops).  
+- Languages & ML frameworks: Python (production scripts, data pipelines), PyTorch, TensorFlow, Hugging Face Transformers; familiarity with model fine-tuning, embeddings, and serving inference.  
 - Learning & focus: Advanced zero-knowledge proofs (ZKPs), LayerZero OFT, Rust for Solana.  
 - Achievement: BlockBash 2024 Winner (ICP 7-day Challenge).  
 - Contact: waghmaresuraj159@gmail.com
@@ -95,17 +102,21 @@
   <p style="margin:4px 0 8px 0"><strong>Blockchain & Web3</strong></p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/><br>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/><br>
-  <img src="https://img.shields.io/badge/Ethers.js-0F172A?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"/><br>
+  <img src="https://img.shields.io/badge/Ethers.js-0F172A?style=for-the-badge&logo=ether&logoColor=white" alt="Ethers.js"/><br>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
 </div>
 
-<!-- Backend & Tools -->
+<!-- Backend, DevOps & AI -->
 <div style="display:inline-block;margin:8px 18px;text-align:center;">
-  <p style="margin:4px 0 8px 0"><strong>Backend & Tools</strong></p>
+  <p style="margin:4px 0 8px 0"><strong>Backend • DevOps • AI</strong></p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/><br>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/><br>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/><br>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/><br>
+  <img src="https://img.shields.io/badge/PyTorch-F05032?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/><br>
+  <img src="https://img.shields.io/badge/HuggingFace-FF6A00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
 </div>
 
 </div>
@@ -140,7 +151,7 @@
       <td>████████░░░░░░░░░░ 18.63%</td>
     </tr>
     <tr>
-      <td>JSON</td>
+      <td>Python</td>
       <td>2 hrs 32 mins</td>
       <td>████░░░░░░░░░░░░░ 5.72%</td>
     </tr>
@@ -175,10 +186,20 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  [![React DeFi Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SuryaSan24x7&repo=react-defi-dashboard&theme=tokyonight&hide_border=true)](https://github.com/SuryaSan24x7/react-defi-dashboard)
-  [![Next.js DEX Interface](https://github-readme-stats.vercel.app/api/pin/?username=SuryaSan24x7&repo=nextjs-dex-interface&theme=tokyonight&hide_border=true)](https://github.com/SuryaSan24x7/nextjs-dex-interface)
-</div>
+This section is auto-generated with the most recently updated (or frequently updated) public repositories. If repository metadata (description, stats) is not available, those fields are omitted so the section shows only meaningful content.
+
+<!--
+  The content between the markers BELOW is managed automatically by
+  .github/workflows/update-featured-repos.yml (GitHub Actions).
+  Do NOT edit the lines <!--START_FEATURED_REPOS--> and <!--END_FEATURED_REPOS--> manually
+  unless you are intentionally disabling the automatic update workflow.
+-->
+
+<!--START_FEATURED_REPOS-->
+
+_No featured repositories available at the moment._
+
+<!--END_FEATURED_REPOS-->
 
 ---
 
@@ -188,7 +209,8 @@
 - Multi-chain Web3 integrations and dApps  
 - Smart contract frontend & wallet integrations  
 - Zero-knowledge proof implementations  
-- Blockchain security audits and high-performance Web3 apps
+- Production-ready DevOps for blockchain systems (CI/CD, containers, orchestration)  
+- GenAI & AI agents for developer productivity, retrieval-augmented generation (RAG), and prompt engineering
 
 ---
 
