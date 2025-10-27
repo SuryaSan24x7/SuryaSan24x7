@@ -184,25 +184,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-This section is auto-generated with the most recently updated (or frequently updated) public repositories. If repository metadata (description, stats) is not available, those fields are omitted so the section shows only meaningful content.
-
-<!--
-  The content between the markers BELOW is managed automatically by
-  .github/workflows/update-featured-repos.yml (GitHub Actions).
-  Do NOT edit the lines <!--START_FEATURED_REPOS--> and <!--END_FEATURED_REPOS--> manually
-  unless you are intentionally disabling the automatic update workflow.
--->
-
-<!--START_FEATURED_REPOS-->
-
-_No featured repositories available at the moment._
-
-<!--END_FEATURED_REPOS-->
-
----
-
 ## 🎯 Current Focus
 
 - Advanced React & Next.js design patterns  
