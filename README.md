@@ -1,57 +1,201 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suraj%20Waghmare&fontSize=42&fontAlignY=25&desc=Full%20Stack%20Blockchain%20Developer%20%7C%20Web3%20Architect&descAlignY=51&descAlign=50"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Suraj+Waghmare+%F0%9F%91%8B;Full+Stack+Blockchain+Developer+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Next.js+Expert+%E2%9A%9B%EF%B8%8F;Building+DeFi+%26+Web3+Applications+%F0%9F%94%97;Solana+%7C+Ethereum+%7C+Multi-Chain+Specialist+%E2%9B%93%EF%B8%8F" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/suraj-waghmare-swagtech"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:waghmaresuraj159@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://discord.gg/yourdiscord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SuryaSan24x7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/SuryaSan24x7?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/SuryaSan24x7?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+</p>
+
+---
+
+<!-- About / Profile Card -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle" width="200">
+        <img src="https://avatars.githubusercontent.com/SuryaSan24x7?s=200" alt="Suraj avatar" style="border-radius:50%;border:3px solid #0ea5a4"/>
+      </td>
+      <td valign="top" style="padding-left:18px;">
+        <h2 style="margin:0">Suraj Waghmare</h2>
+        <p style="margin:4px 0 10px 0;color:#94a3b8">Full Stack Blockchain Developer • Digichain Global (Remote)</p>
+        <p style="margin:0">
+          <strong>Location:</strong> Maharashtra, India 🇮🇳 &nbsp;&nbsp;·&nbsp;&nbsp;
+          <strong>Email:</strong> <a href="mailto:waghmaresuraj159@gmail.com">waghmaresuraj159@gmail.com</a>
+        </p>
+        <p style="margin-top:10px;max-width:560px;color:#cbd5e1">
+          I design and build scalable, secure Web3 applications — specializing in multi-chain dApps, DeFi frontends, smart contract integrations, and delightful UX for complex blockchain products.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Specializations -->
+<div align="center" style="margin-top:18px">
+  <h3 style="margin-bottom:6px">What I do</h3>
+  <p style="max-width:920px;color:#94a3b8">
+    Web3 dApp development • Smart contract integration • DeFi frontend architecture • Cross-chain UI/UX • NFT marketplaces & DEX interfaces
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Web3-🌐-00bcd4?style=for-the-badge" alt="web3"/>
+    <img src="https://img.shields.io/badge/DeFi-🏦-8b5cf6?style=for-the-badge" alt="defi"/>
+    <img src="https://img.shields.io/badge/Multi-Chain-🔗-06b6d4?style=for-the-badge" alt="multi-chain"/>
+    <img src="https://img.shields.io/badge/Smart%20Contracts-⛓️-374151?style=for-the-badge" alt="contracts"/>
+  </p>
+</div>
+
+---
+
+<!-- More About (collapsible) -->
+<details>
+<summary><strong>🔥 More about me</strong></summary>
+
+- Frontend & UX: React, Next.js, TypeScript — building responsive, accessible Web3 experiences.  
+- Multi-chain experience: Ethereum, Solana, Polygon, Arbitrum, Hedera, ICP.  
+- Roles: Blockchain Developer at Digichain Global (Remote) — focusing on DeFi and cross-chain user experiences.  
+- Learning & focus: Advanced zero-knowledge proofs (ZKPs), LayerZero OFT, Rust for Solana.  
+- Achievement: BlockBash 2024 Winner (ICP 7-day Challenge).  
+- Contact: waghmaresuraj159@gmail.com
 
 </details>
 
 ---
 
-## 🚀 Featured Projects:
+## 🛠️ Tech Stack — Visual Overview
 
-### 🦀 **Rust DEX Backend Infrastructure**
-High-performance decentralized exchange backend built with Rust featuring order matching engine, liquidity pool management, and multi-chain integration.
+<details open>
+<summary><strong>Click to expand / collapse</strong></summary>
 
-### ⛓️ **Solana & Arch Network Smart Contracts**
-Production-ready Rust smart contracts for Solana (Anchor) and Arch Network, implementing DeFi protocols, token swaps, and staking mechanisms.
+<div align="center" style="margin-top:12px">
 
-### 🔐 **Zero-Knowledge Proof Integration**
-Privacy-preserving transaction verification using Succinct ZK proofs and Midnight blockchain integration for enhanced security.
+<!-- Frontend -->
+<div style="display:inline-block;margin:8px 18px;text-align:center;">
+  <p style="margin:4px 0 8px 0"><strong>Frontend</strong></p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/><br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/><br>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/><br>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+</div>
 
-### 🌐 **Cross-Chain DeFi Protocol**
-LayerZero OFT implementation for seamless multi-chain asset transfers across EVM and non-EVM blockchains.
+<!-- Blockchain & Web3 -->
+<div style="display:inline-block;margin:8px 18px;text-align:center;">
+  <p style="margin:4px 0 8px 0"><strong>Blockchain & Web3</strong></p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/><br>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/><br>
+  <img src="https://img.shields.io/badge/Ethers.js-0F172A?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"/><br>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
+</div>
 
-### 🖼️ **Fractional NFT on ICP**
-Internet Computer Protocol community contribution project for NFT fractionalization and trading.
+<!-- Backend & Tools -->
+<div style="display:inline-block;margin:8px 18px;text-align:center;">
+  <p style="margin:4px 0 8px 0"><strong>Backend & Tools</strong></p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/><br>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/><br>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+</div>
 
----
-
-## 📜 Certifications:
-
-🎓 **Blockchain Foundation Program** - Kerala Blockchain Academy  
-🎓 **Solana DApp Development** - DApp World  
-🎓 **Soroban Accelerated Bootcamp** - Rise In  
-🎓 **Hyperledger Fabric Fundamentals** - KBA  
-🎓 **Business Analysis Basics** - Simplilearn  
-🎓 **Prompt Engineering with GitHub Copilot** - Microsoft  
-
----
-
-## 🎯 Current Focus:
-- 🦀 Advanced Rust development for blockchain infrastructure
-- 🔗 Cross-chain interoperability protocols
-- 🔐 Zero-knowledge proof implementation
-- 🏗️ DeFi protocol architecture and optimization
-- 🔍 Smart contract security and auditing
-
----
-
-### ✍️ Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
+</details>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SuryaSan24x7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 📊 Recent Coding Activity (last 7 days)
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Language</th>
+      <th align="left">Time</th>
+      <th align="left">Share</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TypeScript</td>
+      <td>18 hrs 45 mins</td>
+      <td>████████████████░░░ 42.35%</td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>12 hrs 23 mins</td>
+      <td>███████████░░░░░░░ 27.98%</td>
+    </tr>
+    <tr>
+      <td>Solidity</td>
+      <td>8 hrs 15 mins</td>
+      <td>████████░░░░░░░░░░ 18.63%</td>
+    </tr>
+    <tr>
+      <td>JSON</td>
+      <td>2 hrs 32 mins</td>
+      <td>████░░░░░░░░░░░░░ 5.72%</td>
+    </tr>
+    <tr>
+      <td>HTML</td>
+      <td>1 hr 28 mins</td>
+      <td>███░░░░░░░░░░░░░░ 3.34%</td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>42 mins</td>
+      <td>██░░░░░░░░░░░░░░░ 1.98%</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=SuryaSan24x7&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📈 GitHub Stats
 
-<!-- Proudly created with passion for blockchain development -->
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SuryaSan24x7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaSan24x7&theme=tokyonight&hide_border=true" alt="streak"/>
+</div>
+
+<div align="center" style="margin-top:12px">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaSan24x7&theme=tokyonight&hide_border=true&layout=compact" alt="top languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuryaSan24x7&theme=tokyonight" alt="repos per language"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  [![React DeFi Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=SuryaSan24x7&repo=react-defi-dashboard&theme=tokyonight&hide_border=true)](https://github.com/SuryaSan24x7/react-defi-dashboard)
+  [![Next.js DEX Interface](https://github-readme-stats.vercel.app/api/pin/?username=SuryaSan24x7&repo=nextjs-dex-interface&theme=tokyonight&hide_border=true)](https://github.com/SuryaSan24x7/nextjs-dex-interface)
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Advanced React & Next.js design patterns  
+- Multi-chain Web3 integrations and dApps  
+- Smart contract frontend & wallet integrations  
+- Zero-knowledge proof implementations  
+- Blockchain security audits and high-performance Web3 apps
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
