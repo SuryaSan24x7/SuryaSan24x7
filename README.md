@@ -1,7 +1,19 @@
 <!-- ==================== HEADER BANNER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,11,20,24&amp;height=220&amp;section=header&amp;text=SURAJ%20WAGHMARE&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Lead%20Protocol%20Architect%20%E2%80%A2%20Senior%20Blockchain%20%26%20Distributed%20Systems%20Engineer&amp;descFontSize=18&amp;descAlignY=62&amp;fontColor=ffffff&amp;stroke=00000000" alt="Suraj Waghmare Banner" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=800&amp;size=38&amp;duration=3000&amp;pause=1000&amp;color=00F5D4&amp;background=0D1117FF&amp;center=true&amp;vCenter=true&amp;width=920&amp;height=120&amp;lines=SURAJ+WAGHMARE;LEAD+PROTOCOL+ARCHITECT;SENIOR+BLOCKCHAIN+ENGINEER" alt="Suraj Waghmare Banner" width="100%"/>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROLE-Lead_Protocol_Architect-00F5D4?style=for-the-badge&amp;labelColor=0D1117&amp;color=00F5D4" alt="Role"/>
+  <img src="https://img.shields.io/badge/DOMAIN-EVM_%7C_ZK--Proofs_%7C_DeFi-8B5CF6?style=for-the-badge&amp;labelColor=0D1117&amp;color=8B5CF6" alt="Domain"/>
+</p>
+
+<!-- ==================== TYPING SUBTITLE ==================== -->
+<!-- <div align="center">
+  <a href="https://surajgwaghmare.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2400&amp;pause=1400&amp;color=A9FEF7&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Building+Scalable+Smart+Contracts+%26+DeFi+Protocols+%E2%9A%99%EF%B8%8F;Founder+%40+Yashotantra+%E2%80%A2+Crafting+SolForge+Academy+%F0%9F%9A%80;Explore+Live+Portfolio+%E2%9E%9C+surajgwaghmare.vercel.app+%F0%9F%8C%90;ZK-Proofs+%E2%80%A2+LayerZero+OFT+%E2%80%A2+Autonomous+AI+Agents+%F0%9F%A7%A0" alt="Typing SVG" />
+  </a>
+</div> -->
 
 <!-- ==================== TYPING SUBTITLE ==================== -->
 <div align="center">
