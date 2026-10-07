@@ -11,14 +11,14 @@
 <!-- ==================== TYPING SUBTITLE ==================== -->
 <!-- <div align="center">
   <a href="https://surajgwaghmare.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2400&amp;pause=1400&amp;color=A9FEF7&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Building+Scalable+Smart+Contracts+%26+DeFi+Protocols+%E2%9A%99%EF%B8%8F;Founder+%40+Yashotantra+%E2%80%A2+Crafting+SolForge+Academy+%F0%9F%9A%80;Explore+Live+Portfolio+%E2%9E%9C+surajgwaghmare.vercel.app+%F0%9F%8C%90;ZK-Proofs+%E2%80%A2+LayerZero+OFT+%E2%80%A2+Autonomous+AI+Agents+%F0%9F%A7%A0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2400&amp;pause=1400&amp;color=A9FEF7&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Building+Scalable+Smart+Contracts+%26+DeFi+Protocols+%E2%9A%99%EF%B8%8F;Founder+%40+Yashotantra+%E2%80%A2+Crafting+Yashotantra+Academy+%F0%9F%9A%80;Explore+Live+Portfolio+%E2%9E%9C+surajgwaghmare.vercel.app+%F0%9F%8C%90;ZK-Proofs+%E2%80%A2+LayerZero+OFT+%E2%80%A2+Autonomous+AI+Agents+%F0%9F%A7%A0" alt="Typing SVG" />
   </a>
 </div> -->
 
 <!-- ==================== TYPING SUBTITLE ==================== -->
 <div align="center">
   <a href="https://surajgwaghmare.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2400&amp;pause=1400&amp;color=00F5D4&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Building+Scalable+Smart+Contracts+%26+DeFi+Protocols+%E2%9A%99%EF%B8%8F;Founder+%40+Yashotantra+%E2%80%A2+Crafting+SolForge+Academy+%F0%9F%9A%80;Explore+Live+Portfolio+%E2%9E%9C+surajgwaghmare.vercel.app+%F0%9F%8C%90;ZK-Proofs+%E2%80%A2+LayerZero+OFT+%E2%80%A2+Autonomous+AI+Agents+%F0%9F%A7%A0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=2400&amp;pause=1400&amp;color=00F5D4&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Building+Scalable+Smart+Contracts+%26+DeFi+Protocols+%E2%9A%99%EF%B8%8F;Founder+%40+Yashotantra+%E2%80%A2+Crafting+Yashotantra+Academy+%F0%9F%9A%80;Explore+Live+Portfolio+%E2%9E%9C+surajgwaghmare.vercel.app+%F0%9F%8C%90;ZK-Proofs+%E2%80%A2+LayerZero+OFT+%E2%80%A2+Autonomous+AI+Agents+%F0%9F%A7%A0" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,8 +30,8 @@
   <a href="https://yashotantra.com" target="_blank">
     <img src="https://img.shields.io/badge/🏢_Venture-Yashotantra-3B82F6?style=for-the-badge&amp;labelColor=0D1117&amp;color=3B82F6" alt="Yashotantra"/>
   </a>
-  <a href="https://solforge.yashotantra.com" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_Product-SolForge_Academy-8B5CF6?style=for-the-badge&amp;labelColor=0D1117&amp;color=8B5CF6" alt="SolForge Academy"/>
+  <a href="https://academy.yashotantra.com" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_Product-Yashotantra_Academy-8B5CF6?style=for-the-badge&amp;labelColor=0D1117&amp;color=8B5CF6" alt="Yashotantra Academy"/>
   </a>
   <a href="https://linkedin.com/in/suraj-g-waghmare" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0D1117" alt="LinkedIn"/>
