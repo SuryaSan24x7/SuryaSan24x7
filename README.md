@@ -136,7 +136,7 @@
       </td>
       <td width="50%" style="padding: 16px; border: 1px solid #30363d;" valign="top">
         <h4 style="margin: 0;">
-          <a href="https://solforge.yashotantra.com" style="color: #8B5CF6; text-decoration: none;">⚡ SolForge Academy</a>
+          <a href="https://academy.yashotantra.com" style="color: #8B5CF6; text-decoration: none;">⚡ Yashotantra Academy</a>
         </h4>
         <p style="margin: 6px 0 0 0; color: #8b949e; font-size: 13px;">
           Interactive, browser-based Web3 IDE and developer portal designed to fast-track Solidity protocol engineering and smart contract deployment.
